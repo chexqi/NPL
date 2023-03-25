@@ -1,6 +1,6 @@
 # -*- coding:utf-8 _*-
 """
-https://mofanpy.com/tutorials/machine-learning/nlp/tfidf
+摘自：https://mofanpy.com/tutorials/machine-learning/nlp/tfidf
 @Author  : Xiaoqi Cheng
 @Time    : 2023/3/25 18:16
 """
